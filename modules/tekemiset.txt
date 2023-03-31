@@ -303,8 +303,9 @@ Imuroi
 Luuttua lattiat
 Puistele matot
 Kyllä maailmassa tekemätöntä työtä riittää, riittää kun metsään katsoo, mene tekemään risusavottaa
-Lue WikiPediaa
-Lue historiaa
+Paranna Wikipediaa.
+Lue Wikipediaa.
+Tee historiaa.
 Katso sotaelokuva
 Katso komediaelokuva
 Lähde reppureissailemaan
@@ -313,3 +314,4 @@ Perusta Äänekoskelle Ford Transit tila-autolla taksi.
 Ala palkkasotilaaksi.
 Mene töihin.
 Paina nappulaa.
+Tee parannus.
