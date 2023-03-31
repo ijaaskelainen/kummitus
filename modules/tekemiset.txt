@@ -314,4 +314,4 @@ Perusta Äänekoskelle Ford Transit tila-autolla taksi.
 Ala palkkasotilaaksi.
 Mene töihin.
 Paina nappulaa.
-Tee parannus.
+Tee parannus, do an improvement.
