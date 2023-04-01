@@ -363,3 +363,4 @@ Kasvata kasveja.
 Lue kirja.
 Ole oma kirjastosi.
 Vapahda roskakuski.
+Evaluoi kaikki uudestaan.
