@@ -384,5 +384,5 @@ Perusta lukupiiri.
 Perusta kommuuni.
 Hanki mahdollisimman monta aurinkopaneelia.
 Hanki mahdollisimman monta Alankomaalaista ilmastointikonetta.
-Lähde eedeniin.
-Lähde paratiisiin.
+Käy eedenin puutarhassa.
+Käy paratiisissa.
