@@ -325,3 +325,4 @@ Opettele ylikellottamaan.
 Opettele kääntämään.
 Hanki assistentti.
 Rupea assistentiksi.
+Luo oma fonttikirjasto.
