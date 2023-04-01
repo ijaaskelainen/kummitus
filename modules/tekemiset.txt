@@ -378,3 +378,5 @@ Syötä tekoälyä.
 Katso Hyvät, Pahat ja Rumat -elokuva.
 Katso kaikki Monty Python -elokuvat.
 Leivo kulmakuntien parhaita leivoksia.
+Kirjoita runo.
+Ala filosofiksi.
