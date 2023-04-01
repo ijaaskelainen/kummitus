@@ -343,3 +343,6 @@ Hanki parempia arvosanoja.
 Lue /random/ osoitteessa https://ylilauta.org/satunnainen/
 Ihmettele internetin entropiaa ja laajenevaa maailmankaikkeutta.
 Hanki oma botti.
+Hanki raspberry pi.
+Hanki arduino.
+Hanki mikrokontrolleri.
