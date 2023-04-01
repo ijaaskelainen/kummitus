@@ -350,4 +350,5 @@ Hanki elämä.
 Opettele soittamaan Roland TB-303.
 Opettele soittamaan synaa.
 Opettele käyttämään sekvensseriä.
+Opettele käyttämään tiedostopakkausmuotoja.
 dont be a cheapskate.
