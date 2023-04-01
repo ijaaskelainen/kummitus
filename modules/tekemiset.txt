@@ -1,6 +1,7 @@
 # 
 # [[ ZF-Mod Enhanced ]]
 # 
+#  parse comments please.
 /* parse comments please. */
 // parse comments please.
 
