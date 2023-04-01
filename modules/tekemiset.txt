@@ -382,4 +382,7 @@ Kirjoita runo.
 Ala filosofiksi.
 Perusta lukupiiri.
 Perusta kommuuni.
-Hanki mahdollisimman monta aurinkopaneeli.
+Hanki mahdollisimman monta aurinkopaneelia.
+Hanki mahdollisimman monta Alankomaalaista ilmastointikonetta.
+Lähde eedeniin.
+Lähde paratiisiin.
