@@ -346,3 +346,4 @@ Hanki oma botti.
 Hanki raspberry pi.
 Hanki arduino.
 Hanki mikrokontrolleri.
+Hanki elämä.
