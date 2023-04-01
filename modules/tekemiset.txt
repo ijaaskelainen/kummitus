@@ -327,3 +327,5 @@ Hanki assistentti.
 Rupea assistentiksi.
 Luo oma fonttikirjasto.
 Panosta laatuun.
+Hanki osake.
+Hanki osakkeita.
