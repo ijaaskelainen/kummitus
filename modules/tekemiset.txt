@@ -340,3 +340,4 @@ Keksi Kummitukselle lisää tekemistä osoitteessa https://github.com/pulinairc/
 Keksi Kummitukselle lisää tekemistä osoitteessa https://github.com/ijaaskelainen/kummitus/blob/patch-1/modules/tekemiset.txt
 Hanki hyviä arvosanoja.
 Hanki parempia arvosanoja.
+Lue /random/ osoitteessa https://ylilauta.org/satunnainen/
