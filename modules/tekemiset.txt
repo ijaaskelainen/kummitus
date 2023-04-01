@@ -1,3 +1,9 @@
+# 
+# [[ ZF-Mod Enhanced ]]
+# 
+/* parse comments please. */
+// parse comments please.
+
 Lisää kummitukselle tekemisiä: https://github.com/pulinairc/kummitus/blob/master/modules/tekemiset.txt
 Pane
 Pane puuta
@@ -329,3 +335,4 @@ Luo oma fonttikirjasto.
 Panosta laatuun.
 Hanki osake.
 Hanki osakkeita.
+Opettele käyttämään perl regular expressions.
