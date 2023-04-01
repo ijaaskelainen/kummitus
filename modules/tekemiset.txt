@@ -100,3 +100,4 @@ Lähde asuntomessuille.
 Kuse muuntajaan.
 Ala sosiaalituottajaksi.
 Ota matokuuri.
+Ota ennemmin ulkomaalainen bugi.
