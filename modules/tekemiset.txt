@@ -347,6 +347,7 @@ Hanki raspberry pi.
 Hanki arduino.
 Hanki mikrokontrolleri.
 Hanki elämä.
+Hanki uudet aivot.
 Opettele soittamaan Roland TB-303.
 Opettele soittamaan synaa.
 Opettele käyttämään sekvensseriä.
