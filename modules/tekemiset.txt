@@ -4,8 +4,6 @@
 #  parse comments please.
 /* parse comments please. */
 // parse comments please.
-
-Lisää kummitukselle tekemisiä: https://github.com/pulinairc/kummitus/blob/master/modules/tekemiset.txt
 Pane
 Pane puuta
 Paina bombay-nappia
@@ -337,3 +335,5 @@ Panosta laatuun.
 Hanki osake.
 Hanki osakkeita.
 Opettele käyttämään perl regular expressions.
+Keksi Kummitukselle lisää tekemistä osoitteessa https://github.com/pulinairc/kummitus/blob/master/modules/tekemiset.txt
+Keksi Kummitukselle lisää tekemistä osoitteessa https://github.com/ijaaskelainen/kummitus/blob/patch-1/modules/tekemiset.txt
