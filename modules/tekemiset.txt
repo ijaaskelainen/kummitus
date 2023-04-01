@@ -338,3 +338,5 @@ Hanki osakkeita.
 Opettele käyttämään perl regular expressions.
 Keksi Kummitukselle lisää tekemistä osoitteessa https://github.com/pulinairc/kummitus/blob/master/modules/tekemiset.txt
 Keksi Kummitukselle lisää tekemistä osoitteessa https://github.com/ijaaskelainen/kummitus/blob/patch-1/modules/tekemiset.txt
+Hanki hyviä arvosanoja.
+Hanki parempia arvosanoja.
