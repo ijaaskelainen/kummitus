@@ -122,3 +122,5 @@ Pese pyykit.
 Tiskaa astiat.
 Myy persettä.
 Lyö huoraa turpaan.
+Asenna GNU/Linux.
+Dominoi.
