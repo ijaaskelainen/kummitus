@@ -105,3 +105,4 @@ Hommaa hämähäkki lemmikiksi.
 Hommaa pingviini lemmikiksi.
 Hommaa kilpikonna lemmikiksi.
 Hommaa lisko lemmikiksi.
+Tee pupusta tai city-jäniksestä paistia.
