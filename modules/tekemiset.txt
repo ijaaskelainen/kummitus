@@ -101,3 +101,7 @@ Kuse muuntajaan.
 Ala sosiaalituottajaksi.
 Ota matokuuri.
 Ota ennemmin ulkomaalainen bugi.
+Hommaa hämähäkki lemmikiksi.
+Hommaa pingviini lemmikiksi.
+Hommaa kilpikonna lemmikiksi.
+Hommaa lisko lemmikiksi.
