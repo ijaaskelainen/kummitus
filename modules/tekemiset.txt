@@ -121,4 +121,4 @@ Ryöstä pankki.
 Pese pyykit.
 Tiskaa astiat.
 Myy persettä.
-Lyö huoraa turpan.
+Lyö huoraa turpaan.
