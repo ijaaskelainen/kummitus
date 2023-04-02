@@ -114,3 +114,5 @@ Shoppaile vaatteita.
 Osta vaikka uusia sukkia.
 Varo puuvillaplantaaseja.
 Varo kartelleja.
+Hanki IRC-shelli ja opettele käyttämään Irssiä.
+Käännä ja käytä Irssi.
