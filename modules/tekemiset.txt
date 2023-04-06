@@ -124,3 +124,6 @@ Myy persettä.
 Lyö huoraa turpaan.
 Asenna GNU/Linux.
 Dominoi.
+Syö pipari.
+Laadi käyttöoikeusehdot omiin pipareihin.
+Anna kaverillekin pipari.
