@@ -127,3 +127,4 @@ Dominoi.
 Syö pipari.
 Laadi käyttöoikeusehdot omiin pipareihin.
 Anna kaverillekin pipari.
+Ole pähkinöinä.
