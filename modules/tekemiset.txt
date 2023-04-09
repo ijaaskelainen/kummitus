@@ -139,3 +139,4 @@ Get a room.
 Ota kameralla huoneesta kuva.
 Lähde bäckpäkkäämään.
 Voita lotossa.
+Ole onnellinen.
