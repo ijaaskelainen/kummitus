@@ -90,6 +90,7 @@ Pelaa DOOM:ia.
 Katso doomilaakson tarinoita.
 Katso uusin tuntematon sotilas.
 Palvo Saatanaa.
+Ole Lusiferin paras kaveri.
 Ala okkultistiksi.
 Ole hyvää pataa Luciferin kanssa.
 Katso joku Transformers -elokuva.
@@ -133,3 +134,8 @@ Perusta jehovan todistajien infopiste.
 Ole tasa-arvoinen.
 Ole konservatiivinen.
 Ole konservatiivisempi kuin kukaan ympärilläsi.
+Muuta ulkomaille.
+Get a room.
+Ota kameralla huoneesta kuva.
+Lähde bäckpäkkäämään.
+Voita lotossa.
